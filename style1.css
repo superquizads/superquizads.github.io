@@ -68,7 +68,7 @@ p.guide{
   position: absolute; 
    margin-top: 40rem;
 	text-align: center; 
-	
+	vertical-align: bottom;
   top: 50px
 
 }
