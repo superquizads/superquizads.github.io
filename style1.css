@@ -1,0 +1,74 @@
+h1{
+
+color: red;
+    font-family: 'Poppins';
+    font-style: bold;
+    font-size: 2em;
+    text-align: center;
+    margin-top: 1em;
+
+
+}
+
+p.b{
+
+
+  position: absolute; 
+	right: 60%; 
+	top: 70px
+
+    
+
+}
+
+p.c{
+
+
+    position: absolute; 
+	  left: 60%;
+	  top: 70px
+
+
+}
+
+p.d{
+
+
+  position: absolute; 
+	right:  60%; 
+	top: 270px
+
+
+}
+
+p.e{
+
+
+  position: absolute; 
+	left: 60%; 
+	top: 270px
+
+
+}
+
+p.img{
+ 
+
+
+    
+text-align: center;
+    vertical-align: middle;
+
+
+
+
+}
+
+p.guide{
+  position: absolute; 
+   margin-top: 20rem;
+	text-align: center; 
+	
+  top: 50px
+
+}

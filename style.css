@@ -1,0 +1,40 @@
+h1{
+
+color: red;
+    font-family: 'Poppins';
+    font-style: bold;
+    font-size: 2em;
+    text-align: center;
+    margin-top: 1em;
+
+
+}
+
+h1:hover {
+  color: orange;
+}
+
+
+
+
+h2{
+
+font-family: 'Poppins';
+    font-style: bold;
+    font-size: 1rem;
+    text-align: center;
+    margin-top: 1rem;
+
+
+
+}
+
+p.a{
+
+
+    text-align: center;
+    margin-top: 1rem;
+
+
+}
+
